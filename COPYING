@@ -1,3 +1,1 @@
-OmegaT-EditHints.jar and WKRecommending.jar are distributed under the GPLv3 license
-
-commons-collections-3.2.1.jar are distributed under the Apache License 2.0
+The code in this project is provided under the General Public License version 3. The library OmegaT-EditHints.jar is distributed under the same license and was compiled from the project Gamblr-CAT-lib [https://github.com/transducens/Gamblr-CAT/tree/master/Gamblr-CAT-SBI-lib]. The libary commons-collections-3.2.1.jar is distributed under the Apache License 2.0, and was obtained from the Apache project [https://commons.apache.org/proper/commons-collections/]. Finally, the library htmlparser.jar is part of the project HTML Parser [https://sourceforge.net/projects/htmlparser/] and is distributed under the General Public License version 2.1. A copy of these licenses can be found in the directory licenses.
